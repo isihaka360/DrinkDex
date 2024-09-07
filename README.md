@@ -5,12 +5,6 @@
 Welcome to the Drink API! This API allows you to perform CRUD (Create, Read, Update, Delete) operations on drink data stored in a database. Each drink has attributes including the name of the drink, description, and price.
 
 ## Table of Contents
-- [About]
-- [Features]
-- [Installation]
-- [Usage]
-- [API Endpoints]
-- [Contributing]
 
 ## About
 
