@@ -20,7 +20,7 @@ The DrinkDex is a RESTful web service built using Django and Django REST Framewo
 To install and run the DrinkDex locally, follow these steps:
 
 1. Clone the repository:
-   $ git clone https://github.com/yourusername/drink-api.git
+   $ git clone https://github.com/yourusername/DrinkDex.git
    $ cd drink-api
 
 ## Usage
