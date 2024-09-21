@@ -1,6 +1,4 @@
-# Drinks_Api_with_Django
-
-# Drink API
+# DrinkDex 
 
 Welcome to the Drink API! This API allows you to perform CRUD (Create, Read, Update, Delete) operations on drink data stored in a database. Each drink has attributes including the name of the drink, description, and price.
 
@@ -8,7 +6,7 @@ Welcome to the Drink API! This API allows you to perform CRUD (Create, Read, Upd
 
 ## About
 
-The Drink API is a RESTful web service built using Django and Django REST Framework. It provides endpoints to manage drink data, allowing users to create, retrieve, update, and delete drinks.
+The DrinkDex is a RESTful web service built using Django and Django REST Framework. It provides endpoints to manage drink data, allowing users to create, retrieve, update, and delete drinks.
 
 ## Features
 
@@ -19,18 +17,16 @@ The Drink API is a RESTful web service built using Django and Django REST Framew
 
 ## Installation
 
-To install and run the Drink API locally, follow these steps:
+To install and run the DrinkDex locally, follow these steps:
 
 1. Clone the repository:
-
-   ```bash
    $ git clone https://github.com/yourusername/drink-api.git
    $ cd drink-api
 
 ## Usage
 Once the server is running, you can interact with the API using HTTP requests. You can use tools like cURL, Postman, or your web browser to send requests to the provided endpoints.
 
-## API Endpoints
+## DrinkDex API Endpoints
 >> GET /drinks/: Retrieve a list of all drinks.
 >> POST /drinks/: Create a new drink.
 >> GET /drinks/<id>/: Retrieve details of a specific drink.
@@ -38,7 +34,7 @@ Once the server is running, you can interact with the API using HTTP requests. Y
 >> DELETE /drinks/<id>/: Delete a specific drink.
 
 ## Contributing
-Contributions to the Drink API are welcome! If you would like to contribute, please follow these guidelines:
+Contributions to the DrinkDex are welcome! If you would like to contribute, please follow these guidelines:
 
 1. Fork the repository and create a new branch for your feature or bug fix.
 2. Make your changes and ensure that the code passes any existing tests.
